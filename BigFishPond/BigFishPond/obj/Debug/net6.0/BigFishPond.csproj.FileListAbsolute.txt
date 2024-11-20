@@ -1,0 +1,8 @@
+C:\Users\pingu\source\repos\BigFishPond\BigFishPond\bin\Debug\net6.0\BigFishPond.deps.json
+C:\Users\pingu\source\repos\BigFishPond\BigFishPond\bin\Debug\net6.0\BigFishPond.dll
+C:\Users\pingu\source\repos\BigFishPond\BigFishPond\obj\Debug\net6.0\BigFishPond.csproj.AssemblyReference.cache
+C:\Users\pingu\source\repos\BigFishPond\BigFishPond\obj\Debug\net6.0\BigFishPond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pingu\source\repos\BigFishPond\BigFishPond\obj\Debug\net6.0\BigFishPond.AssemblyInfoInputs.cache
+C:\Users\pingu\source\repos\BigFishPond\BigFishPond\obj\Debug\net6.0\BigFishPond.AssemblyInfo.cs
+C:\Users\pingu\source\repos\BigFishPond\BigFishPond\obj\Debug\net6.0\BigFishPond.csproj.CoreCompileInputs.cache
+C:\Users\pingu\source\repos\BigFishPond\BigFishPond\obj\Debug\net6.0\BigFishPond.dll

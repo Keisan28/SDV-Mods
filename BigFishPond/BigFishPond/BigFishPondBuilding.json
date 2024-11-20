@@ -1,0 +1,100 @@
+{
+  "Keisan28_BigFishPond": {
+    "ID": "Keisan28_BigFishPond",
+    "Name": "Big Fish Pond",
+    "Description": "{{i18n: BigFishPond.Description}}",
+    "Texture": "Buildings/Keisan28.BigFishPond_BigFishPond",
+    "Skins": [],
+    "DrawShadow": true,
+    "UpgradeSignTile": "3, 3",
+    "UpgradeSignHeight": 30.0,
+    "Size": {
+      "X": 5,
+      "Y": 5
+    },
+    "FadeWhenBehind": false,
+    "SourceRect": {
+      "X": 0,
+      "Y": 0,
+      "Width": 0,
+      "Height": 0
+    },
+    "SeasonOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "DrawOffset": "0, 0",
+    "SortTileOffset": 0.0,
+    "CollisionMap": null,
+    "AdditionalPlacementTiles": null,
+    "BuildingType": "StardewValley.Buildings.FishPond",
+    "Builder": "Robin",
+    "BuildCondition": "PLAYER_HAS_ACHIEVEMENT Any \"27\"", //Catch 100 fishes
+    "BuildDays": 2,
+    "BuildCost": 15000,
+    "BuildMaterials": [
+      {
+        "ItemId": "390", //stone
+        "Amount": 500
+      },
+      {
+        "ItemId": "337", //iridium bars
+        "Amount": 20
+      },
+      {
+        "ItemId": "SeaJelly",
+        "Amount": 10
+      },
+      {
+        "ItemId": "CaveJelly",
+        "Amount": 10
+      },
+      {
+        "ItemId": "RiverJelly",
+        "Amount": 10
+      }
+
+    ],
+    "BuildingToUpgrade": "Fish Pond",
+    "MagicalConstruction": false,
+    "BuildMenuDrawOffset": {
+      "X": 0,
+      "Y": 0
+    },
+    "HumanDoor": {
+      "X": -1,
+      "Y": -1
+    },
+    "AnimalDoor": {
+      "X": -1,
+      "Y": -1,
+      "Width": 0,
+      "Height": 0
+    },
+    "AnimalDoorOpenDuration": 0.0,
+    "AnimalDoorOpenSound": null,
+    "AnimalDoorCloseDuration": 0.0,
+    "AnimalDoorCloseSound": null,
+    "NonInstancedIndoorLocation": null,
+    "IndoorMap": null,
+    "IndoorMapType": null,
+    "MaxOccupants": 20,
+    "ValidOccupantTypes": [],
+    "AllowAnimalPregnancy": false,
+    "IndoorItemMoves": null,
+    "IndoorItems": null,
+    "AddMailOnBuild": null,
+    "Metadata": {},
+    "ModData": {},
+    "HayCapacity": 0,
+    "Chests": null,
+    "DefaultAction": null,
+    "AdditionalTilePropertyRadius": 0,
+    "AllowsFlooringUnderneath": false,
+    "ActionTiles": [],
+    "TileProperties": [],
+    "ItemConversions": null,
+    "DrawLayers": null,
+    "CustomFields": null
+  }
+}
